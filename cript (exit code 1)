@@ -1,0 +1,94 @@
+[33mcommit 0fbf747bdc7f32a0bf8304c3f10d931e8116263f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Davidskumar <davidskumarxz@gmail.com>
+Date:   Wed Oct 11 23:02:26 2023 +0530
+
+    third push
+
+[33mcommit d7b7b8f4545eecaefc86fc7b2aa1b5017acd50e2[m
+Author: Davidskumar <davidskumarxz@gmail.com>
+Date:   Wed Oct 11 22:43:52 2023 +0530
+
+    second push
+
+[33mcommit 0aad2f2195cbbd366b3e7ea349c4285b33dff23d[m
+Author: Davidskumar <davidskumarxz@gmail.com>
+Date:   Wed Oct 11 22:43:08 2023 +0530
+
+    second push
+
+[33mcommit 1d7b6e6bae8f98de5bba4ab2b8e57c28a2dd081b[m
+Author: Davidskumar <davidskumarxz@gmail.com>
+Date:   Wed Oct 11 22:39:05 2023 +0530
+
+    ok good
+
+[33mcommit da2ef9d4bb5fd6401bf90b8a2f13f3104de65175[m
+Merge: 86a9668 cfa0c40
+Author: Priyanshu Kumar <50799561+iamgroot2@users.noreply.github.com>
+Date:   Mon May 25 19:26:49 2020 +0530
+
+    Merge pull request #1 from Supriyo9/custom-quiz
+    
+    Update Custom_quiz.java
+
+[33mcommit cfa0c40259b119cfb6fdf7f4ccc5bcd672f3f2c0[m
+Author: Supriyo9 <65856435+Supriyo9@users.noreply.github.com>
+Date:   Mon May 25 13:28:19 2020 +0530
+
+    Update Custom_quiz.java
+    
+    there was one bug i have fixed.user time was accepted by the variable instead it of user time the length of json array was getting assigned to that value ,but now what ever the value of timer  will be given by user only that will be accpeted.
+
+[33mcommit 86a9668c4810897a2a5e2d2d8eba7fc5c77ee542[m
+Author: Priyanshu Kumar <50799561+iamgroot2@users.noreply.github.com>
+Date:   Thu Jan 16 09:36:01 2020 +0530
+
+    Update Rules.txt
+
+[33mcommit efc9811e7905b0627890cdb8f5a25c46007e6f05[m
+Author: Priyanshu Kumar <50799561+iamgroot2@users.noreply.github.com>
+Date:   Wed Dec 18 17:31:27 2019 +0530
+
+    Update README.md
+
+[33mcommit 88fc46d1c5b8cdb0a07706921228c8d93311e966[m
+Author: Priyanshu Kumar <50799561+iamgroot2@users.noreply.github.com>
+Date:   Wed Dec 18 17:25:19 2019 +0530
+
+    Create README.md
+
+[33mcommit b429761d02b3299e845bfa7f8671918d75b9621e[m
+Author: Priyanshu Kumar <50799561+iamgroot2@users.noreply.github.com>
+Date:   Wed Dec 18 17:19:11 2019 +0530
+
+    Add files via upload
+
+[33mcommit 999b5102a8293d93cd6a6a00a7b2fba29d151c32[m
+Author: Priyanshu Kumar <50799561+iamgroot2@users.noreply.github.com>
+Date:   Wed Dec 18 17:07:04 2019 +0530
+
+    Add files via upload
+
+[33mcommit f741e46d0bd3ce5a6b2ef08578363d73efc163b5[m
+Author: Priyanshu Kumar <50799561+iamgroot2@users.noreply.github.com>
+Date:   Wed Dec 18 16:48:41 2019 +0530
+
+    Add files via upload
+
+[33mcommit ae834b205925c5feb53ea7965e27af1938f5910d[m
+Author: Priyanshu Kumar <50799561+iamgroot2@users.noreply.github.com>
+Date:   Wed Dec 18 16:44:46 2019 +0530
+
+    Add files via upload
+
+[33mcommit 4f0f5a8eea9091257fa602a6e26db2bc3152101c[m
+Author: Priyanshu Kumar <50799561+iamgroot2@users.noreply.github.com>
+Date:   Wed Dec 18 16:35:29 2019 +0530
+
+    Add files via upload
+
+[33mcommit 92a7a125931e5751fa2a1e3859f6f3912a812c82[m
+Author: groot <iit2017138@iiita.ac.in>
+Date:   Wed Dec 18 11:32:22 2019 +0530
+
+    initial Commit
