@@ -7,6 +7,34 @@ Build an android application in which two users (e.g student and admin), take up
 
 Demo & ScreenShots
 --------------------
+Splash UI:
+
+<img alt="Splash UI" src="https://github.com/Davidskumar/Performance_Appraisal_App/blob/master/DemoImages/SplashUI.png" width="500"/>
+
+Sign In:
+
+<img alt="Signin UI" src="https://github.com/Davidskumar/Performance_Appraisal_App/blob/master/DemoImages/SignIn.png" width="500"/>
+
+Home Page:
+
+<img alt="Home UI" src="https://github.com/Davidskumar/Performance_Appraisal_App/blob/master/DemoImages/HomePage.jpeg" width="500"/>
+
+User Profile:
+
+<img alt="User UI" src="https://github.com/Davidskumar/Performance_Appraisal_App/blob/master/DemoImages/UserProfile.jpeg" width="500"/>
+
+Quiz:
+
+<img alt="Quiz UI" src="https://github.com/Davidskumar/Performance_Appraisal_App/blob/master/DemoImages/Quiz.jpeg" width="500"/>
+
+Admin Page:
+
+<img alt="Admin UI" src="https://github.com/Davidskumar/Performance_Appraisal_App/blob/master/DemoImages/AdminSetup.jpeg" width="500"/>
+
+Chat Functionality:
+
+<img alt="Chat UI" src="https://github.com/Davidskumar/Performance_Appraisal_App/blob/master/DemoImages/ChatFunction.jpeg" width="500"/>
+
 
 References-
 -------------
