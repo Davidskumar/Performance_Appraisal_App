@@ -1,5 +1,5 @@
 # Performance_Appraisal_App
--------------------------
+A Quiz Android application Developed for Performance Appraisal
 
 Objective-
 ---------------
