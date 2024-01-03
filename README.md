@@ -9,7 +9,7 @@ Demo & ScreenShots
 --------------------
 Splash UI:
 
-<img alt="Splash UI" src="https://github.com/Davidskumar/Performance_Appraisal_App/blob/master/DemoImages/SplashUI.png" width="350"/>
+<img alt="Splash UI" src="https://github.com/Davidskumar/Performance_Appraisal_App/blob/master/DemoImages/SplashUI.png" width="200"/>
 
 Sign In:
 
